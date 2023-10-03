@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luyanda Sopazi</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A Software developer from South Africa</h3>
 
-- 🔭 I’m currently working on **My website Portfolio**
+- 🔭 I’m currently working on **My website Portfolio** and my **Social Network using Django (side Project)**
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **JavaScript and React and Django on the side**
 
 - 👯 I’m looking to collaborate on **Construction company website**
 
