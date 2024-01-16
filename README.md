@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luyanda Sopazi</h1>
-<h3 align="center">A Software developer from South Africa</h3>
+<h3 align="center">A Full-Stack Software developer from South Africa</h3>
 
-- 🔭 I’m currently working on **Web Fitness App** and my **Social Network using Django (side Project)**
+- 🔭 I’m currently working on **Web Fitness App** and my ** My Wines Web App (side Project)**
 
-- 🌱 I’m currently learning **JavaScript and React and Django on the side**
+- 🌱 I’m currently learning **JavaScript and React and Python (Django) on the side**
 
 - 👯 I’m looking to collaborate on **Construction company website**
 
