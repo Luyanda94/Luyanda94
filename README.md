@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **luyandasopazi@Outlook.com**
+- 📫 How to reach me **luyandasopazi@Outlook.com/luyandasopazi94@gmail.com OR +27 66 502 1717**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
