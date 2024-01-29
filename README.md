@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **JavaScript and React and Python (Django) on the side**
 
-- 👯 I’m looking to collaborate on **Construction company website**
+- 👯 I’m looking to collaborate on **Any fullstack development project**
 
-- 🤝 I’m looking for help with **Web developer**
+- 🤝 I’m looking for help with **Backend development**
 
 - 💬 Ask me about **Javascript**
 
