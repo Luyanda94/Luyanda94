@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luyanda Sopazi</h1>
 <h3 align="center">A Full-Stack Software developer from South Africa</h3
 - 👯 Here is my Portfolio website link: https://stirring-frangipane-5d9240.netlify.app
-- 🔭 I’m currently working on **Web Fitness App** and my ** My Wines Web App (side Project)**
+- 🔭 I’m currently working on **MY business website** and my ** Church website**
 
 - 🌱 I’m currently learning **JavaScript and React and Python (Django) on the side**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Backend development**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript and cybersecurity**
 
 - 📫 How to reach me **luyandasopazi@Outlook.com/luyandasopazi94@gmail.com OR +27 66 502 1717**
 
