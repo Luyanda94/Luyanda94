@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and Cybersecurity**
 
-- 👯 I’m looking to collaborate on **Any fullstack development project**
+- 👯 I’m looking to collaborate on **Any fullstack development and/or Cybersecurity project**
 
 - 🤝 I’m looking for help with **Backend development**
 
