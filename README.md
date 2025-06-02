@@ -3,7 +3,7 @@
 - 👯 Here is my Portfolio website link: https://stirring-frangipane-5d9240.netlify.app
 - 🔭 I’m currently working on **MY business website** and my ** Church website**
 
-- 🌱 I’m currently learning **Python and Cybersecurity**
+- 🌱 I’m currently learning **Python and Cybersecurity.**
 
 - 👯 I’m looking to collaborate on **Any fullstack development and/or Cybersecurity project**
 
